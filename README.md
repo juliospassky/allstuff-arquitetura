@@ -6,7 +6,7 @@ https://mentoria.atlassian.net/wiki/spaces/STU
 ## Legado - Arquitetura
 
 <p align="center">
-<img src="https://github.com/juliospassky/allstuff-arquitetura/blob/main/diagramas_imagens/C4-level1.png" title="Legado">
+<img src="https://github.com/juliospassky/allstuff-arquitetura/blob/main/diagramas_imagens/legado/legado.png" title="Legado">
 </p>
 
 ## C4 - Arquitetura
